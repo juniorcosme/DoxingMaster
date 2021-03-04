@@ -27,7 +27,7 @@ Questions, bugs or suggestions to : hackinglivebooking@gmail.com
 
 # LICENSE
 Doxing is licensed. 
-See [LICENSE](https://github.com/HackingEnVivo/Doxing/blob/master/LICENSE) for more information.
+See [LICENSE](https://github.com/HackingEnVivo/Doxing/blob/master/LICENSE) for more informationll
 
 We need partners, if you're interested in support or help contact.
 
